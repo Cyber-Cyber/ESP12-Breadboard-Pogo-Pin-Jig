@@ -11,4 +11,4 @@ You can download the gerber files directly and upload them to your PCB manufactu
 
 ![alt text](Images/Breadboard-2.png)
 
-![alt text](Images/3D Printed Jig.png)
+![alt text](Images/3D%20Printed%20Jig.png)
