@@ -5,6 +5,8 @@ Uses 1mm diameter pogo pins and M2 Standoffs.
 
 You can download the gerber files directly and upload them to your PCB manufacturer of choice, or [you can order directly from PCBS.IO from this link](https://PCBs.io/share/8g7P3) as I've made the boards shared on that site.
 
+Pro Tip - If you place the ESP12 upside down you'll be able to see the labels for each pin on the ESP12.
+
 ![alt text](Images/Jig.png)
 
 ![alt text](Images/PCB.png)
