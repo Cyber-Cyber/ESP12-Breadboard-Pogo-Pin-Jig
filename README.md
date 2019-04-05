@@ -3,7 +3,7 @@ This is a simple PCB jig that can be used to interface a ESP12 to a breadboard u
 
 Uses 1mm diameter pogo pins and M2 Standoffs.
 
-[You can order directly from PCBS.IO from this link.](https://PCBs.io/share/8g7P3)
+You can download the gerber files directly and upload them to your PCB manufacturer of choice, or [you can order directly from PCBS.IO from this link](https://PCBs.io/share/8g7P3) as I've made the boards shared on that site.
 
 ![alt text](Images/Jig.png)
 
