@@ -1,4 +1,4 @@
-# ESP12-Breadboard-Pogo-Pin-Jig
+# ESP12 Breadboard Pogo Pin Jig Adapter
 This is a simple PCB jig that can be used to interface a ESP12 to a breadboard using pogo pins. Top and bottom PCBs are the same and stacked together for stability.
 
 Uses 1mm diameter pogo pins and M2 Standoffs.
